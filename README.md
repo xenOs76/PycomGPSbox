@@ -24,6 +24,6 @@ The `async` functions enable to set two different intervals to poll the GPS modu
 
 A more advanced example of `uasyncio` and GPS polling can be found between [micropython-async's examples](https://github.com/peterhinch/micropython-async/tree/master/gps).
 
-The `settings_sample.py` provides an example of configuration. It requires the data of a TTN's device configured as ABP to be filled up. The file can then be renamed as `settings.py'`.       
+The `settings_sample.py` provides an example of configuration. It requires the data of a TTN's device configured as ABP to be filled up. The file can then be renamed as `settings.py`.       
 
 The [Links](/Links.md) file provides a list of references that made writing the code a quick, pleasant, journey for a wannabe Devops.    
